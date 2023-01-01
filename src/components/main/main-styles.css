@@ -1,0 +1,11 @@
+.main {
+  background-color: #fdfdfd;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 90%;
+  /* border: 1px solid red; */
+  height: 100%;
+}
+

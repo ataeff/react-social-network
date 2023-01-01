@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url(./normalize-styles.css);
+
+.wrapper {
+    display: grid;
+    grid-template-areas: 'aside main aside-content';
+    grid-template-columns: 220px 1fr 490px;
+    height: 100vh;
+}
+
+.icons {
+    width: 16px;
+    height: 16px;
+}
